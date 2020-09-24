@@ -1,1 +1,1 @@
-prsint("hello world")
+prdsint("hello world")
